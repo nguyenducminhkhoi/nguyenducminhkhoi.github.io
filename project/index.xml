@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Khoi Nguyen&#39;s Academic website</title>
+    <link>https://ducminhkhoi.github.io/project/</link>
+    <description>Recent content in Projects on Khoi Nguyen&#39;s Academic website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Your Name</copyright>
+    <lastBuildDate>Sat, 11 Nov 2017 15:51:20 -0800</lastBuildDate>
+    <atom:link href="/project/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Action Recognition</title>
+      <link>https://ducminhkhoi.github.io/project/action_recognition/</link>
+      <pubDate>Sat, 11 Nov 2017 15:51:20 -0800</pubDate>
+      
+      <guid>https://ducminhkhoi.github.io/project/action_recognition/</guid>
+      <description>&lt;p&gt;Given a video, the task is to recognize the group activity by collectively considering the individual actions.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://ducminhkhoi.github.io/img/projects/action_recognition_2.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is an implementation of paper: &lt;a href=&#34;https://arxiv.org/pdf/1607.02643&#34; target=&#34;_blank&#34;&gt;https://arxiv.org/pdf/1607.02643&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Here is the code: &lt;a href=&#34;https://github.com/ducminhkhoi/lstm_tracking&#34; target=&#34;_blank&#34;&gt;https://github.com/ducminhkhoi/lstm_tracking&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
