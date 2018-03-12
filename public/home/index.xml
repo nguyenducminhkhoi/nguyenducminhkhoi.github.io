@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Khoi Nguyen&#39;s Academic website</title>
+    <link>https://ducminhkhoi.github.io/home/</link>
+    <description>Recent content in Homes on Khoi Nguyen&#39;s Academic website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Your Name</copyright>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0700</lastBuildDate>
+    
+	<atom:link href="https://ducminhkhoi.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Academic</title>
+      <link>https://ducminhkhoi.github.io/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://ducminhkhoi.github.io/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
+(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://ducminhkhoi.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducminhkhoi.github.io/home/about/</guid>
+      <description>Biography Khoi Nguyen is a PhD student in Computer Science at Oregon State University. His research interests include computer vision and deep learning. His current research focuses on applying deep learning approaches in computer vision such as scene understanding, image captioning, visual question answering.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>https://ducminhkhoi.github.io/home/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://ducminhkhoi.github.io/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://ducminhkhoi.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://ducminhkhoi.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://ducminhkhoi.github.io/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducminhkhoi.github.io/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://ducminhkhoi.github.io/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducminhkhoi.github.io/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://ducminhkhoi.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducminhkhoi.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://ducminhkhoi.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducminhkhoi.github.io/home/teaching/</guid>
+      <description>I was a teaching assistant for the following courses at Bach Khoa University (HCMUT), Ho Chi Minh City, Vietnam:
+ Introduction to Programming, Fall 2014 Principal of Programming Language, Fall 2013 Artificial Intelligent, Spring 2013 Data Structure and Algorithm, Fall 2012  </description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>https://ducminhkhoi.github.io/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://ducminhkhoi.github.io/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ducminhkhoi.github.io/home/contact/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://ducminhkhoi.github.io/home/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test Forestry</title>
+      <link>https://ducminhkhoi.github.io/home/test-forestry/</link>
+      <pubDate>Mon, 12 Mar 2018 02:18:06 +0000</pubDate>
+      
+      <guid>https://ducminhkhoi.github.io/home/test-forestry/</guid>
+      <description>Test new information
+\$$x^2 + 2x + 1 = 0$$</description>
+    </item>
+    
+  </channel>
+</rss>

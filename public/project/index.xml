@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Khoi Nguyen&#39;s Academic website</title>
+    <link>https://ducminhkhoi.github.io/project/</link>
+    <description>Recent content in Projects on Khoi Nguyen&#39;s Academic website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Your Name</copyright>
+    <lastBuildDate>Sat, 11 Nov 2017 15:51:20 -0800</lastBuildDate>
+    
+	<atom:link href="https://ducminhkhoi.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Action Recognition</title>
+      <link>https://ducminhkhoi.github.io/project/action_recognition/</link>
+      <pubDate>Sat, 11 Nov 2017 15:51:20 -0800</pubDate>
+      
+      <guid>https://ducminhkhoi.github.io/project/action_recognition/</guid>
+      <description>Given a video, the task is to recognize the group activity by collectively considering the individual actions.
+This is an implementation of paper: https://arxiv.org/pdf/1607.02643
+Here is the code: https://github.com/ducminhkhoi/lstm_tracking</description>
+    </item>
+    
+  </channel>
+</rss>

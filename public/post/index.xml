@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Khoi Nguyen&#39;s Academic website</title>
+    <link>https://ducminhkhoi.github.io/post/</link>
+    <description>Recent content in Posts on Khoi Nguyen&#39;s Academic website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Your Name</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0800</lastBuildDate>
+    
+	<atom:link href="https://ducminhkhoi.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to Machine Learning</title>
+      <link>https://ducminhkhoi.github.io/post/intro_ml_1/</link>
+      <pubDate>Sat, 11 Nov 2017 16:36:18 -0800</pubDate>
+      
+      <guid>https://ducminhkhoi.github.io/post/intro_ml_1/</guid>
+      <description>This is the overview of basic and important machine learning models, methods and concepts and theories. I acknowledge all information and knowledge including images, data&amp;hellip; I have taken from those two courses: https://www.coursera.org/learn/machine-learning and http://classes.engr.oregonstate.edu/eecs/fall2015/cs534/.
+Our series comprise of following topics:
+ Section 1: Introduction, Linear regression, Generative and Discriminative Model, Perceptron, Logistic Regression, Naive Bayes and Gaussian Discriminant Analysis (this post). Section 2: Four important Discriminative Models: K-Nearest Neighbors, Support Vector Machine, Decision Tree and Neural Network.</description>
+    </item>
+    
+    <item>
+      <title>Overview of Machine Learning</title>
+      <link>https://ducminhkhoi.github.io/post/overview_of_machine_learning/</link>
+      <pubDate>Sat, 11 Nov 2017 15:57:07 -0800</pubDate>
+      
+      <guid>https://ducminhkhoi.github.io/post/overview_of_machine_learning/</guid>
+      <description>This is my first post on Machine Learning, Deep Learning and Computer Vision series in Medium. I am currently a Ph.D. Student in Computer Science with research interests are Computer Vision and Machine Learning. On this series, I will share with you the roadmap I have experienced. I hope that everything I share is somehow helps you save time when exploring Machine Learning field.
+First, I will discuss about the relationship between Machine Learning and other areas.</description>
+    </item>
+    
+  </channel>
+</rss>
