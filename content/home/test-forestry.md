@@ -4,4 +4,6 @@ draft = true
 title = "Test Forestry"
 
 +++
+Test new information
 
+\$$x^2 + 2x + 1 = 0$$
