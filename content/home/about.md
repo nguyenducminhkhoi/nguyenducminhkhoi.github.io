@@ -1,3 +1,6 @@
+---
+null
+---
 +++
 # About/Biography widget.
 widget = "about"
