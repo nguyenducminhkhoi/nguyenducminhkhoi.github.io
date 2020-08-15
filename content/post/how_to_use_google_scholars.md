@@ -5,7 +5,7 @@ draft: true
 tags: ["Google Scholars"]
 ---
 
-In this post, I will show you how to use Google Scholar to advance your research as well as in your daily life. 
+In this post, I will show you how to use Google Scholar to advance your research as well as in your daily life haha. 
 
 Test some images
 ![Test image](/img/posts/how_to_use_google_scholars/test.png)
