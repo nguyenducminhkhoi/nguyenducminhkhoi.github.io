@@ -12,6 +12,7 @@ weight = 5
   interests = [
     "Computer Vision",
     "Deep Learning",
+    "Machine Learning",
   ]
 
 # List your qualifications (such as academic degrees).
