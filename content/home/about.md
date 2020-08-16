@@ -13,9 +13,10 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Computer Vision",
-    "Deep Learning",
-    "Machine Learning",
+    "Image and Video Segmentation",
+    "Few-shot Learning",
+    "Object Tracking",
+    "Optimization",
   ]
 
 # List your qualifications (such as academic degrees).
@@ -34,4 +35,4 @@ weight = 5
 
 # Biography
 
-Khoi Nguyen is a PhD student in Computer Science at Oregon State University. His research interests include computer vision and deep learning. His current research focuses on applying deep learning approaches in computer vision such as scene understanding, image captioning, visual question answering.
+Khoi Nguyen is a PhD candidate in Computer Science at Oregon State University. His research interests include computer vision and machine learning. His current research focuses on applying deep learning approaches in computer vision such as image and video segmentation (semantic and instance segmentation), object tracking, few-shot learning, and optimization.

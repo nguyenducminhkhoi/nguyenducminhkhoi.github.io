@@ -3,21 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ducminhkhoi.github.io/home/hero/</loc>
-    <lastmod>2017-10-15T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ducminhkhoi.github.io/home/about/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ducminhkhoi.github.io/home/publications_selected/</loc>
-    <lastmod>2016-04-20T00:00:00-07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ducminhkhoi.github.io/home/publications/</loc>
     <lastmod>2016-04-20T00:00:00-07:00</lastmod>
   </url>
@@ -38,11 +23,6 @@
   </url>
   
   <url>
-    <loc>https://ducminhkhoi.github.io/home/teaching/</loc>
-    <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://ducminhkhoi.github.io/home/tags/</loc>
     <lastmod>2017-09-20T00:00:00-07:00</lastmod>
   </url>
@@ -50,11 +30,6 @@
   <url>
     <loc>https://ducminhkhoi.github.io/home/contact/</loc>
     <lastmod>2016-04-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ducminhkhoi.github.io/home/test-forestry/</loc>
-    <lastmod>2018-03-12T02:18:06+00:00</lastmod>
   </url>
   
   <url>
@@ -108,6 +83,10 @@
   </url>
   
   <url>
+    <loc>https://ducminhkhoi.github.io/home/about/</loc>
+  </url>
+  
+  <url>
     <loc>https://ducminhkhoi.github.io/publication_types/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -138,13 +117,13 @@
   
   <url>
     <loc>https://ducminhkhoi.github.io/home/</loc>
-    <lastmod>2017-10-15T00:00:00-07:00</lastmod>
+    <lastmod>2016-04-20T00:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ducminhkhoi.github.io/</loc>
-    <lastmod>2017-10-15T00:00:00-07:00</lastmod>
+    <lastmod>2016-04-20T00:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
