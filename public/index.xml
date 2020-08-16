@@ -126,17 +126,12 @@ Here is the code: https://github.com/ducminhkhoi/lstm_tracking</description>
     </item>
     
     <item>
-      <title></title>
+      <title>Khoi Nguyen</title>
       <link>https://ducminhkhoi.github.io/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://ducminhkhoi.github.io/home/about/</guid>
-      <description>+++
-About/Biography widget. widget = &amp;ldquo;about&amp;rdquo; active = true date = &amp;ldquo;2016-04-20T00:00:00&amp;rdquo;
-Order that this section will appear in. weight = 5
-List your academic interests. [interests] interests = [ &amp;ldquo;Image and Video Segmentation&amp;rdquo;, &amp;ldquo;Few-shot Learning&amp;rdquo;, &amp;ldquo;Object Tracking&amp;rdquo;, &amp;ldquo;Optimization&amp;rdquo;, ]
-List your qualifications (such as academic degrees). [[education.courses]] course = &amp;ldquo;MS in Computer Science&amp;rdquo; institution = &amp;ldquo;Oregon State University, USA&amp;rdquo; year = 2017
-[[education.courses]] course = &amp;ldquo;BSc in Computer Science&amp;rdquo; institution = &amp;ldquo;Bach Khoa University (HCMUT), Vietnam&amp;rdquo; year = 2014</description>
+      <description>Khoi Nguyen is a PhD candidate in Computer Science at Oregon State University. His research interests include computer vision and machine learning. His current research focuses on applying deep learning approaches in computer vision such as image and video segmentation (semantic and instance segmentation), object tracking, few-shot learning, and optimization.</description>
     </item>
     
   </channel>
